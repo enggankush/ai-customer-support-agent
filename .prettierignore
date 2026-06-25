@@ -1,0 +1,12 @@
+node_modules
+.next
+dist
+build
+out
+coverage
+.turbo
+.vercel
+*.lock
+.env
+.env.*
+!.env.example
