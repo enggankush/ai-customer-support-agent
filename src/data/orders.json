@@ -1,0 +1,152 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerId": "CUST001",
+    "product": "Wireless Headphones",
+    "category": "electronics",
+    "purchaseDate": "2026-06-10",
+    "deliveryDate": "2026-06-12",
+    "price": 129.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD002",
+    "customerId": "CUST002",
+    "product": "Running Shoes",
+    "category": "footwear",
+    "purchaseDate": "2026-06-08",
+    "deliveryDate": "2026-06-14",
+    "price": 89.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD003",
+    "customerId": "CUST003",
+    "product": "Microsoft Office 365",
+    "category": "digital_products",
+    "purchaseDate": "2026-05-20",
+    "deliveryDate": "2026-05-20",
+    "price": 69.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD004",
+    "customerId": "CUST004",
+    "product": "Coffee Maker",
+    "category": "appliances",
+    "purchaseDate": "2026-05-15",
+    "deliveryDate": "2026-05-18",
+    "price": 149.99,
+    "status": "DAMAGED"
+  },
+  {
+    "orderId": "ORD005",
+    "customerId": "CUST005",
+    "product": "Shampoo & Conditioner Set",
+    "category": "personal_care",
+    "purchaseDate": "2026-06-01",
+    "deliveryDate": "2026-06-03",
+    "price": 34.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD006",
+    "customerId": "CUST006",
+    "product": "Gaming Monitor",
+    "category": "electronics",
+    "purchaseDate": "2026-04-10",
+    "deliveryDate": "2026-04-15",
+    "price": 299.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD007",
+    "customerId": "CUST007",
+    "product": "$50 Amazon Gift Card",
+    "category": "gift_cards",
+    "purchaseDate": "2026-06-15",
+    "deliveryDate": "2026-06-15",
+    "price": 50.0,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD008",
+    "customerId": "CUST008",
+    "product": "Laptop Stand",
+    "category": "accessories",
+    "purchaseDate": "2026-06-18",
+    "deliveryDate": "2026-06-19",
+    "price": 44.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD009",
+    "customerId": "CUST009",
+    "product": "Yoga Mat",
+    "category": "sports",
+    "purchaseDate": "2026-06-05",
+    "deliveryDate": "2026-06-07",
+    "price": 29.99,
+    "status": "DAMAGED"
+  },
+  {
+    "orderId": "ORD010",
+    "customerId": "CUST010",
+    "product": "USB-C Cable",
+    "category": "accessories",
+    "purchaseDate": "2026-04-01",
+    "deliveryDate": "2026-04-03",
+    "price": 14.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD011",
+    "customerId": "CUST011",
+    "product": "Winter Jacket",
+    "category": "clothing",
+    "purchaseDate": "2026-06-12",
+    "deliveryDate": "2026-06-14",
+    "price": 199.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD012",
+    "customerId": "CUST012",
+    "product": "Book - The Art of Programming",
+    "category": "books",
+    "purchaseDate": "2026-06-20",
+    "deliveryDate": "2026-06-21",
+    "price": 39.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD013",
+    "customerId": "CUST013",
+    "product": "Phone Screen Protector",
+    "category": "accessories",
+    "purchaseDate": "2026-06-17",
+    "deliveryDate": "2026-06-18",
+    "price": 9.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD014",
+    "customerId": "CUST014",
+    "product": "Desk Lamp LED",
+    "category": "furniture",
+    "purchaseDate": "2026-06-19",
+    "deliveryDate": "2026-06-20",
+    "price": 59.99,
+    "status": "DELIVERED"
+  },
+  {
+    "orderId": "ORD015",
+    "customerId": "CUST015",
+    "product": "Noise Cancelling Earplugs",
+    "category": "electronics",
+    "purchaseDate": "2026-06-11",
+    "deliveryDate": "2026-06-13",
+    "price": 79.99,
+    "status": "DELIVERED"
+  }
+]
